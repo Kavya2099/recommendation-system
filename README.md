@@ -17,3 +17,11 @@ Changed the movie title name to be easily used by ML using regular expression (o
 Dataset: https://files.grouplens.org/datasets/movielens/ml-25m.zip
 
 Reference taken from: https://www.youtube.com/watch?v=eyEabQRBMQA
+
+# Project 3 - Collaborative based Movie recommendation system
+This is collaborative based movie recommendation system by filtering the titles based on ratings given by users and movies watched/liked by users from the dataset.
+Created using pivot table and Cosine simularity. Also we have found top 50 popular movies from the dataset. 
+
+Dataset: https://files.grouplens.org/datasets/movielens/ml-25m.zip
+
+Reference taken from: https://www.youtube.com/watch?v=1YoD0fg3_EM&t=2908s
