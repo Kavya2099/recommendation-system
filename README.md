@@ -1,4 +1,7 @@
 # Recommendation-system
+<p align="center">
+<img src="https://media.tenor.com/MDE9_vSK6mIAAAAC/television-spongebob.gif" width="400" height="300" />
+</p>
 Creating recommendation system with #project-of-the-week in DataTalks.Club
 
 Part of Datatalks clubs and Alexey Grigorev's project of the week!
